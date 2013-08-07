@@ -1,0 +1,4 @@
+JackPointGo
+===========
+
+jackpoint in go
